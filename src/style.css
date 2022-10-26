@@ -1,0 +1,27 @@
+/*
+* File: app.js
+* Author: Lukács Eszter
+* Copyright: 2022, Lukács Eszter
+* Group: Szoft II/N
+* Date: 2022-10-26
+* Github: https://github.com/lukacseszter/
+* Licenc: GNU GPL
+*/
+
+body {
+    background-color: rgb(105, 171, 246);
+ }
+
+.container{
+    background-color: rgb(65, 165, 208);
+    padding: 20px;
+    width: fit-content;
+    box-shadow: 15px 15px 15px rgba(20, 131, 148, 0.589);
+    border-radius: 10px;
+    border: solid 0.5px rgb(67, 205, 255);
+    margin: 10%;
+ }
+
+h1 {
+    font-family:'Times New Roman', Times, serif;
+ }
